@@ -7,7 +7,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.28.0",
     "expo": "^31.0.2",
     "react": "^16.7.0",
     "react-native": "^0.57.8"
